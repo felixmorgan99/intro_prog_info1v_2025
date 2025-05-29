@@ -1,0 +1,15 @@
+Q1 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule a diferença deles e mostre o resultado.
+    1. Ler [a];
+    2. Ler [b];
+    3. [subtração] = [a] - [b];
+    4. Mostre [subtração].
+Q2 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o produto deles e mostre o resultado.
+    1. Ler [a];
+    2. Ler [b];
+    3. [multiplicação] = [a] x [b];
+    4. Mostre [multiplicação].
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o quociente entra eles e mostre o resultado.
+    1. Ler [a];
+    2. Ler [b];
+    3. [divisão] = [a] ÷ [b];
+    4. Mostre [divisão].
